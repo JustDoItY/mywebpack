@@ -1,0 +1,14 @@
+diff --git a/test.js b/test.js
+index 5b1366b..6d569a3 100644
+--- a/test.js
++++ b/test.js
+@@ -10,4 +10,6 @@ const entrys = {};
+ // }
+ 
+ console.log(module.filename);
+-console.log();
+\ No newline at end of file
++console.log();
++
++// niosifodo
+\ No newline at end of file
